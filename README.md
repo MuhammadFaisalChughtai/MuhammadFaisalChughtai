@@ -34,7 +34,7 @@ Hello! I'm Faisal Chughtai, a dedicated web developer with over 6 years of hands
 
 ## 🌟 **Work Experience**
 
-### **QMH Technologies PVT LTD**  
+### **QMH Technologies PVT LTD (UK Based)**  
 **Lead Frontend Developer / Development Manager**  
 *June 2022 - September 2024*
 
