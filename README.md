@@ -42,7 +42,6 @@ Hello! I'm Faisal Chughtai, a dedicated web developer with over 6 years of hands
 - **E-commerce & CMS**: Developed an e-commerce platform with React, Next.js, and Magento REST APIs, and CMS solutions for efficient data management.
 - **Search & Data Integration**: Enhanced address search using Elastic Search, Kibana, Monstache, and MongoDB for accurate data retrieval.
 - **Web Development**: Created 40+ websites using HTML, CSS, Bootstrap, and JavaScript with responsive designs and smooth user experiences.
-- **Mysterious Project**: Currently working on an exciting, confidential project that I will reveal in the near future. Stay tuned!
 
 ### **BEPakistani.pk**  
 **Full Stack Developer**  
