@@ -7,7 +7,7 @@ By blending my extensive frontend product engineering background with a Master o
 
 * Location: Birmingham, United Kingdom
 * Email: muhammadfaisalchughtai@gmail.com
-* Interactive Portfolio: faisalchughtai.me
+* Interactive Portfolio: [faisalchughtai.me](https://faisalchughtai.me/)
 * LinkedIn: [linkedin.com/in/muhammad-faisal-chughtai](https://www.linkedin.com/in/muhammad-faisal-chughtai-874480168/)
 
 ## Complete Technical Matrix
