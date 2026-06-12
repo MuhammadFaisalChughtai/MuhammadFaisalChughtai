@@ -1,4 +1,4 @@
-# High-Performance Enterprise Systems Architecture & Applied Machine Learning
+# Full-Stack Engineer & Data Scientist
 
 ## Executive Biography
 I am a performance-driven, deeply analytical Senior Full-Stack Engineer & Data Scientist with over 6 years of verifiable professional experience designing, building, and operating high-throughput enterprise systems and predictive machine learning models. My technical capability spans across engineering complex frontend architectures, deploying decoupled distributed backends, and building robust data science pipelines backed by rigorous mathematical validation.
@@ -8,7 +8,7 @@ By blending my extensive frontend product engineering background with a Master o
 * Location: Birmingham, United Kingdom
 * Email: muhammadfaisalchughtai@gmail.com
 * Interactive Portfolio: faisalchughtai.me
-* LinkedIn: linkedin.com/in/muhammad-faisal-chughtai
+* LinkedIn: [linkedin.com/in/muhammad-faisal-chughtai](https://www.linkedin.com/in/muhammad-faisal-chughtai-874480168/)
 
 ## Complete Technical Matrix
 
