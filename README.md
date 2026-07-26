@@ -1,9 +1,7 @@
 # Full-Stack Engineer & Data Scientist
 
 ## Executive Biography
-I am a performance-driven, deeply analytical Senior Full-Stack Engineer & Data Scientist with over 6 years of verifiable professional experience designing, building, and operating high-throughput enterprise systems and predictive machine learning models. My technical capability spans across engineering complex frontend architectures, deploying decoupled distributed backends, and building robust data science pipelines backed by rigorous mathematical validation.
-
-By blending my extensive frontend product engineering background with a Master of Science in Data Science, I bridge the gap between user-centric programmatic interfaces and backend intelligence. I specialize in type-safe development ecosystems, resilient state management frameworks, distributed event-driven message brokers, and advanced stacking ensemble models.
+I engineer high-throughput enterprise systems, decouple distributed backends, and build predictive machine learning pipelines. My work bridges the gap between user-centric programmatic interfaces and rigorous, data-driven backend intelligence, specializing in type-safe ecosystems, event-driven architectures, and advanced stacking ensemble models.
 
 * Location: Birmingham, United Kingdom
 * Email: muhammadfaisalchughtai@gmail.com
